@@ -3,7 +3,7 @@ title: Introduction - Blockchain! Blockchain! Blockchain!
 ---
 
 
-## Alchemy - How-To Mine Digital Schilling? How-To Turn Digital Bits Into $$$ or €€€?
+## Alchemy - How-To Mine Digital Shilling? How-To Turn Digital Bits Into $$$ or €€€?
 
 **Transactions (Hyper) Ledger Book**
 
@@ -22,9 +22,9 @@ title: Introduction - Blockchain! Blockchain! Blockchain!
 | Franz               | Max              |     17  |
 | Maria               | Adam             |      4  |
 
-(†): Miner Transaction - New Schilling on the Market!
+(†): Miner Transaction - New Shilling on the Market!
 
-(Source: [blockchainaustria/schilling](https://github.com/blockchainaustria/schilling))
+(Source: [bitshilling/bitshilling](https://github.com/bitshilling/bitshilling))
 
 
 
