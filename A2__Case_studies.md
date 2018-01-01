@@ -56,3 +56,14 @@ Latest (and Greatest) Investment Opportunity!
 
 
 ![](i/cryptokitty46.png)
+
+
+
+
+## Awesome CryptoKitties (and CryptoCopycats)
+
+![](i/cryptokitties-modernart-paintings.png)
+
+A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes. Are CryptoPuppies the new CryptoKitties? Learn by Example from the Real World (Anno 2017) - Buy! Sell! Hodl!
+
+More @ [openblockchains/awesome-cryptokitties](https://github.com/openblockchains/awesome-cryptokitties)

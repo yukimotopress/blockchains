@@ -22,4 +22,4 @@ _Everything is local. Distributed is the new centralized._
 
 > `git merge [-m REF] [-g BLOB] --push`
 >  Merge and push all signed commits to the blockchain.
-> -- [Git Commands](https://twitter.com/git_commands/status/935574
+> -- [Git Commands](https://twitter.com/git_commands/status/935574015015612416)
