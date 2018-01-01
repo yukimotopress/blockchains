@@ -15,6 +15,6 @@ by [Gerald Bauer](https://github.com/geraldb), et al
 - [Merkle Tree](05__Merkle_tree.md)
 - [Central Bank](06__Central_bank.md)
 - [Appendix 1 - Awesome Crypto](A1__Awesome_crypto.md)
-- [Appendix 2 - Case studies](A2__Case studies.md)
+- [Appendix 2 - Case studies](A2__Case_studies.md)
 - [Appendix 3 - Resources](A3__Resources.md)
 - [Appendix 4 - Git](A4__Git.md)
