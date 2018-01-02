@@ -7,6 +7,8 @@ See the live version @ [`yukimotopress.github.io/blockchains`](http://yukimotopr
 
 by [Gerald Bauer](https://github.com/geraldb), et al
 
+> Note: Beta Version / Rough Draft
+
 
 - [Introduction - Digital $$$ Alchemy - What's a Blockchain?](01__Introduction.md)
 - [Building Blockchains from Scratch](02__Blockchains_from_scratch.md)
